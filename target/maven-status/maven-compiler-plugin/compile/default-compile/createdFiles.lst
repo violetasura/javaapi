@@ -1,0 +1,12 @@
+com\whjh\api\config\WebMvcConfig.class
+com\whjh\api\service\impl\PaperServiceImpl.class
+com\whjh\api\SpringbootApplication.class
+com\whjh\api\model\TestLib.class
+com\whjh\api\config\WebMvcConfig$1.class
+com\whjh\api\config\WebSecurityConfig.class
+com\whjh\api\config\ValidatorConfig.class
+com\whjh\api\web\TestController.class
+com\whjh\api\service\PaperService.class
+com\whjh\api\controller\IndexController.class
+com\whjh\api\controller\PaperController.class
+com\whjh\api\service\impl\PaperServiceImpl$1.class
